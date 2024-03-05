@@ -1,6 +1,6 @@
-FROM python:3.8.7
+FROM python:3.12.2
 
-WORKDIR /TamilanBotsZ
+WORKDIR /Cinema 
 
 COPY requirements.txt ./
 
